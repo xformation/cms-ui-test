@@ -15,7 +15,7 @@ export default function init() {
       <BrowserRouter>
         <Switch>
           <Route
-            path="/plugins/ems-student/page/home"
+            path="/plugins/ems-test/page/home"
             component={TabPage}
           />
         </Switch>
