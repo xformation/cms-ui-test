@@ -1,2 +1,2 @@
-# cms-ui-test
-Test Plugins using graphQL
+# cms-ui-plugin
+Plugin for Attendance functionality 
